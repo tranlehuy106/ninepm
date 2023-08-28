@@ -1,0 +1,28 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="26" height="26" fill="#F5F5F5"/>
+<g id="Frame 4">
+<rect width="375" height="812" transform="translate(-318 -201)" fill="url(#paint0_linear_0_1)"/>
+<g id="Frame 4_2">
+<g id="Frame 12">
+<g id="Frame 7">
+<g id="Frame 9">
+<g id="Frame 16">
+<rect x="-266" y="-23" width="307" height="72" rx="8" fill="#474152"/>
+<g id="Icon-Line/Check">
+<rect x="1" y="1" width="24" height="24" rx="12" fill="#8551F5"/>
+<path id="Color" d="M20.8519 9.65351C21.2034 9.30204 21.2034 8.73219 20.8519 8.38072C20.5005 8.02924 19.9306 8.02924 19.5791 8.38072L11.3269 16.633L7.51892 12.8251C7.16745 12.4736 6.5976 12.4736 6.24613 12.8251C5.89466 13.1765 5.89466 13.7464 6.24613 14.0978L10.6905 18.5422C11.0419 18.8937 11.6118 18.8937 11.9633 18.5422L20.8519 9.65351Z" fill="white"/>
+<rect x="1" y="1" width="24" height="24" rx="12" stroke="#8551F5" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="375" y1="-1.05015e-05" x2="-6.50002" y2="818.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2B1A4F"/>
+<stop offset="1" stop-color="#171717"/>
+</linearGradient>
+</defs>
+</svg>
