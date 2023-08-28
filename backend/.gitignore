@@ -1,0 +1,23 @@
+# phpstorm project files
+.idea
+__pycache__
+
+.DS_Store
+
+environment_settings.py
+variables.py
+
+# LOCAL FILES
+local_*.py
+local_*
+
+# DEVELOPING FILES (REMOVE AFTER FIRST DEPLOY)
+#common/generic/migrations/*.py
+
+/.coverage
+/tests/api/api_ting_wallet/test_debug.py
+/test.sh
+# /common/generic/migrations/
+partners/
+venv
+
